@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: databutton-web
+Version: 0.16.0
+Summary: 
+Author: Databutton
+Author-email: hi@databutton.io
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
